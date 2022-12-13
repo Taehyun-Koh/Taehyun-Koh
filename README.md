@@ -1,5 +1,5 @@
 #### Hi there 👋
-- 📫 How to reach me: taehyun1018@gmail.com 
+- 📫 How to reach me: rhtaegus17@g.skku.edu
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taehyun-Koh) 
 <br>
