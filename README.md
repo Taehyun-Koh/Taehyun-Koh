@@ -5,8 +5,7 @@
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun-Koh&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehyun-Koh)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 
 ![Profile views](https://gpvc.arturio.dev/taehyun-Koh)  
